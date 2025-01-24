@@ -1,1 +1,2 @@
-# sms_spam_detector
+# Assignment 21
+The code is implemented in gradio_sms_text_classification file. The UI is created using Gradio library. The model pipeline is created and used for detecting spam messages. The model is trained on a dataset of SMS messages and their corresponding labels.
